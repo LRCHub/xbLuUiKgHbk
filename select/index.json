@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Sounds of love",
+  "base_artist": "BREATHE",
+  "createdAt": "2026-02-14T07:05:05.972071Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sounds Of Love",
+      "artist": "Danko Jones",
+      "has_synced": true,
+      "path": "select/01_Sounds_Of_Love_Danko_Jones.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sounds of love",
+      "artist": "BREATHE",
+      "has_synced": false,
+      "path": "select/pl_01_Sounds_of_love_BREATHE.txt"
+    }
+  ]
+}
